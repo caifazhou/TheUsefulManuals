@@ -1,4 +1,4 @@
 # The Useful Manuals
 ## Python
-[Introducing Data Science](./Python/Introducing Data Science.pdf)
+[Introducing Data Science](./Python/)
 
